@@ -11,7 +11,7 @@ h1 {
 p  {
   color: red;
   font-family: courier;
-  font-size: 180%;
+  font-size: 170%;
 }
 </style>
 </head>
