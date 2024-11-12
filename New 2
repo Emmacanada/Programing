@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  cout << "Hello World asdadasd ad a dsasda sdad";
+int main() 
+  cout << "Hello World";
 hbi uf fyt fyf
   cout << " i am learning C++";
   return 0;
